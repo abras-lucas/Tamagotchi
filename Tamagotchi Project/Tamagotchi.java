@@ -1,4 +1,6 @@
 class Tamagotchi{
+	//Nome: Abrahão Lucas Barboza Nunes
+	//Matrícula: 20181143000154
 
 	int saciedadeMAX;
 	int energiaMAX;

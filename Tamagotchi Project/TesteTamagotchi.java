@@ -1,5 +1,8 @@
 import java.util.Scanner;
 class TesteTamagotchi{
+	//Nome: Abrahão Lucas Barboza Nunes
+	//Matrícula: 20181143000154
+	
 	public static void main(String[] args) {
 		//vairavel de seleçao
 		int opcao;
